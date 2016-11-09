@@ -8,7 +8,7 @@ CONTRIBUTIONS:
 		
 	Garren - 50%
 	
-	Jamie -
+	Jamie - learned git	Hub
 
 
 DESCRIPTION: Project 2 - Text Editor
